@@ -1,0 +1,72 @@
+/* 
+  Strings.strings
+  RealMadridCF
+
+  Created by mac on 3/3/24.
+  
+*/
+"Goalkeepers" = "Goalkeepers";
+"Defenders" = "Defenders";
+"Midfielders" = "Midfielders";
+"Forwards" = "Forwards";
+"Website" = "Website";
+"Enter website url" = "Enter website url";
+"Goalkeeper" = "Goalkeeper";
+"Defender" = "Defender";
+"Midfielder" = "Midfielder";
+"Forward" = "Forward";
+"OK" = "OK";
+"Cancel" = "Cancel";
+
+"YELLOW CARD" = "YELLOW CARD";
+"FULL BIO >>" = "FULL BIO >>";
+"Button" = "Button";
+"Label" = "Label";
+"NATION:" = "NATION:";
+"TROPHY" = "TROPHY";
+"34" = "34";
+"NUMBER:" = "NUMBER:";
+"RATINGS" = "RATINGS";
+"12" = "12";
+"GOALS" = "GOALS";
+"Real Madrid" = "Real Madrid";
+"Button" = "Button";
+"14" = "14";
+"Label" = "Label";
+"POSITION:" = "POSITION:";
+"AGE:" = "AGE:";
+"12" = "12";
+"Label" = "Label";
+"HEIGHT:" = "HEIGHT:";
+"Label" = "Label";
+"Age" = "Age";
+"WEBSITE >>" = "WEBSITE >>";
+"Button" = "Button";
+"Label" = "Label";
+"ASSIST" = "ASSIST";
+"12" = "12";
+"Button" = "Button";
+"Number" = "Number";
+"Label" = "Label";
+"GOALS" = "GOALS";
+"12" = "12";
+"WEIGHT:" = "WEIGHT:";
+"GAMES" = "GAMES";
+"Nation" = "Nation";
+"Label" = "Label";
+"Player" = "Player";
+"RED CARD" = "RED CARD";
+"Label" = "Label";
+"APPEARANCE" = "APPEARANCE";
+"Label" = "Label";
+"AGE" = "AGE";
+"Label" = "Label";
+"12" = "12";
+"102" = "102";
+"Button" = "Button";
+"12" = "12";
+"Argentina" = "Argentina";
+"Button" = "Button";
+"Label" = "Label";
+"English" = "English";
+"Spanish" = "Spanish";

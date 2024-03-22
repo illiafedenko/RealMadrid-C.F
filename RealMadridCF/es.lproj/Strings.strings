@@ -1,0 +1,72 @@
+/* 
+  Strings.strings
+  RealMadridCF
+
+  Created by mac on 3/3/24.
+  
+*/
+"Goalkeepers" = "Porteros";
+"Defenders" = "Defensores";
+"Midfielders" = "Centrocampistas";
+"Forwards" = "Hacia adelante";
+"Website" = "Sitio web";
+"Enter website url" = "Ingrese la URL del sitio web";
+"Goalkeeper" = "Portero";
+"Defender" = "Defensor";
+"Midfielder" = "Mediocampista";
+"Forward" = "Adelante";
+"OK" = "DE ACUERDO";
+"Cancel" = "Cancelar";
+
+"YELLOW CARD" = "TARJETA AMARILLA";
+"FULL BIO >>" = "BIOGRAFÍA COMPLETA >>";
+"Button" = "Botón";
+"Label" = "Etiqueta";
+"NATION:" = "NACIÓN:";
+"TROPHY" = "TROFEO";
+"34" = "34";
+"NUMBER:" = "NÚMERO:";
+"RATINGS" = "CALIFICACIONES";
+"12" = "12";
+"GOALS" = "OBJETIVOS";
+"Real Madrid" = "Real Madrid";
+"Button" = "Botón";
+"14" = "14";
+"Label" = "Etiqueta";
+"POSITION:" = "POSICIÓN:";
+"AGE:" = "EDAD:";
+"12" = "12";
+"Label" = "Etiqueta";
+"HEIGHT:" = "ALTURA:";
+"Label" = "Etiqueta";
+"Age" = "Edad";
+"WEBSITE >>" = "SITIO WEB >>";
+"Button" = "Botón";
+"Label" = "Etiqueta";
+"ASSIST" = "ASISTIR";
+"12" = "12";
+"Button" = "Botón";
+"Number" = "Número";
+"Label" = "Etiqueta";
+"GOALS" = "OBJETIVOS";
+"12" = "12";
+"WEIGHT:" = "PESO:";
+"GAMES" = "JUEGOS";
+"Nation" = "Nación";
+"Label" = "Etiqueta";
+"Player" = "Jugador";
+"RED CARD" = "TARJETA ROJA";
+"Label" = "Etiqueta";
+"APPEARANCE" = "APARIENCIA";
+"Label" = "Etiqueta";
+"AGE" = "EDAD";
+"Label" = "Etiqueta";
+"12" = "12";
+"102" = "102";
+"Button" = "Button";
+"12" = "12";
+"Argentina" = "Argentina";
+"Button" = "Botón";
+"Label" = "Etiqueta";
+"English" = "Inglés";
+"Spanish" = "Español";

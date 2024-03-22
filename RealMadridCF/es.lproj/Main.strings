@@ -1,0 +1,150 @@
+
+/* Class = "UILabel"; text = "YELLOW CARD"; ObjectID = "1M7-qp-czH"; */
+"1M7-qp-czH.text" = "TARJETA AMARILLA";
+
+/* Class = "UIButton"; configuration.title = "FULL BIO >>"; ObjectID = "1wS-dH-SXy"; */
+"1wS-dH-SXy.configuration.title" = "BIOGRAFÍA COMPLETA >>";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1wS-dH-SXy"; */
+"1wS-dH-SXy.normalTitle" = "Botón";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5p1-lA-J0F"; */
+"5p1-lA-J0F.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "NATION:"; ObjectID = "8RR-pG-f9b"; */
+"8RR-pG-f9b.text" = "NACIÓN:";
+
+/* Class = "UILabel"; text = "TROPHY"; ObjectID = "8dR-Lq-tGp"; */
+"8dR-Lq-tGp.text" = "TROFEO";
+
+/* Class = "UILabel"; text = "34"; ObjectID = "94S-1M-u0l"; */
+"94S-1M-u0l.text" = "34";
+
+/* Class = "UILabel"; text = "NUMBER:"; ObjectID = "ADC-kk-obB"; */
+"ADC-kk-obB.text" = "NÚMERO:";
+
+/* Class = "UILabel"; text = "RATINGS"; ObjectID = "AOp-cF-kCf"; */
+"AOp-cF-kCf.text" = "CALIFICACIONES";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "Gol-Hz-g8Z"; */
+"Gol-Hz-g8Z.text" = "12";
+
+/* Class = "UILabel"; text = "GOALS"; ObjectID = "HSa-Hs-Gld"; */
+"HSa-Hs-Gld.text" = "OBJETIVOS";
+
+/* Class = "UILabel"; text = "Real Madrid"; ObjectID = "IsT-SP-rQE"; */
+"IsT-SP-rQE.text" = "Real Madrid";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JIl-rn-IRJ"; */
+"JIl-rn-IRJ.normalTitle" = "Botón";
+
+/* Class = "UILabel"; text = "14"; ObjectID = "JUT-O4-jh0"; */
+"JUT-O4-jh0.text" = "14";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JZA-UY-dxd"; */
+"JZA-UY-dxd.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "POSITION:"; ObjectID = "K4H-xL-wpY"; */
+"K4H-xL-wpY.text" = "POSICIÓN:";
+
+/* Class = "UILabel"; text = "AGE:"; ObjectID = "LUs-81-wLh"; */
+"LUs-81-wLh.text" = "EDAD:";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "MbP-6b-zC8"; */
+"MbP-6b-zC8.text" = "12";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N3v-fs-MZi"; */
+"N3v-fs-MZi.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "HEIGHT:"; ObjectID = "N8L-oa-DVh"; */
+"N8L-oa-DVh.text" = "ALTURA:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nf0-9R-rgE"; */
+"Nf0-9R-rgE.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "OkE-8t-tnf"; */
+"OkE-8t-tnf.text" = "Edad";
+
+/* Class = "UIButton"; configuration.title = "WEBSITE >>"; ObjectID = "Rna-n1-wlo"; */
+"Rna-n1-wlo.configuration.title" = "SITIO WEB >>";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Rna-n1-wlo"; */
+"Rna-n1-wlo.normalTitle" = "Botón";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TuY-HJ-QNM"; */
+"TuY-HJ-QNM.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "ASSIST"; ObjectID = "Udb-of-VqK"; */
+"Udb-of-VqK.text" = "ASISTIR";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "Vwo-KD-nTY"; */
+"Vwo-KD-nTY.text" = "12";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XJk-uP-liv"; */
+"XJk-uP-liv.normalTitle" = "Botón";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "XRr-ra-Shd"; */
+"XRr-ra-Shd.text" = "Número";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YRO-1c-mPS"; */
+"YRO-1c-mPS.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "GOALS"; ObjectID = "Z6D-4m-3mi"; */
+"Z6D-4m-3mi.text" = "OBJETIVOS";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "aW9-cU-sLg"; */
+"aW9-cU-sLg.text" = "12";
+
+/* Class = "UILabel"; text = "WEIGHT:"; ObjectID = "akQ-j5-XI3"; */
+"akQ-j5-XI3.text" = "PESO:";
+
+/* Class = "UILabel"; text = "GAMES"; ObjectID = "cDu-NB-qnV"; */
+"cDu-NB-qnV.text" = "JUEGOS";
+
+/* Class = "UILabel"; text = "Nation"; ObjectID = "dL5-NP-kT8"; */
+"dL5-NP-kT8.text" = "Nación";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dN4-4Z-fjh"; */
+"dN4-4Z-fjh.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Player"; ObjectID = "fRI-kG-HeG"; */
+"fRI-kG-HeG.text" = "Jugador";
+
+/* Class = "UILabel"; text = "RED CARD"; ObjectID = "ffS-FM-RPV"; */
+"ffS-FM-RPV.text" = "TARJETA ROJA";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gSL-sY-tx6"; */
+"gSL-sY-tx6.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "APPEARANCE"; ObjectID = "iEk-sk-uft"; */
+"iEk-sk-uft.text" = "APARIENCIA";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iTT-sH-0Ln"; */
+"iTT-sH-0Ln.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "AGE"; ObjectID = "jRb-Kw-AKn"; */
+"jRb-Kw-AKn.text" = "EDAD";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mjl-uk-ceu"; */
+"mjl-uk-ceu.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "nXA-ws-huc"; */
+"nXA-ws-huc.text" = "12";
+
+/* Class = "UILabel"; text = "102"; ObjectID = "noL-S6-LVc"; */
+"noL-S6-LVc.text" = "102";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "o97-XQ-KJa"; */
+"o97-XQ-KJa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "wF9-eP-dTe"; */
+"wF9-eP-dTe.text" = "12";
+
+/* Class = "UILabel"; text = "Argentina"; ObjectID = "wd5-gp-bbv"; */
+"wd5-gp-bbv.text" = "Argentina";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "x7l-cd-pO9"; */
+"x7l-cd-pO9.normalTitle" = "Botón";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yL0-JI-oXg"; */
+"yL0-JI-oXg.text" = "Etiqueta";

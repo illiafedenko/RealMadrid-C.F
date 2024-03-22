@@ -1,0 +1,606 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "1M7-qp-czH.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"YELLOW CARD\"; ObjectID = \"1M7-qp-czH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "YELLOW CARD"
+          }
+        }
+      }
+    },
+    "1wS-dH-SXy.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"FULL BIO >>\"; ObjectID = \"1wS-dH-SXy\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "FULL BIO >>"
+          }
+        }
+      }
+    },
+    "1wS-dH-SXy.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"1wS-dH-SXy\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "5p1-lA-J0F.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"5p1-lA-J0F\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "8dR-Lq-tGp.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"TROPHY\"; ObjectID = \"8dR-Lq-tGp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "TROPHY"
+          }
+        }
+      }
+    },
+    "8RR-pG-f9b.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"NATION:\"; ObjectID = \"8RR-pG-f9b\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "NATION:"
+          }
+        }
+      }
+    },
+    "94S-1M-u0l.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"34\"; ObjectID = \"94S-1M-u0l\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "34"
+          }
+        }
+      }
+    },
+    "ADC-kk-obB.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"NUMBER:\"; ObjectID = \"ADC-kk-obB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "NUMBER:"
+          }
+        }
+      }
+    },
+    "akQ-j5-XI3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"WEIGHT:\"; ObjectID = \"akQ-j5-XI3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "WEIGHT:"
+          }
+        }
+      }
+    },
+    "AOp-cF-kCf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"RATINGS\"; ObjectID = \"AOp-cF-kCf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "RATINGS"
+          }
+        }
+      }
+    },
+    "aW9-cU-sLg.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"12\"; ObjectID = \"aW9-cU-sLg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "12"
+          }
+        }
+      }
+    },
+    "cDu-NB-qnV.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"GAMES\"; ObjectID = \"cDu-NB-qnV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "GAMES"
+          }
+        }
+      }
+    },
+    "dL5-NP-kT8.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Nation\"; ObjectID = \"dL5-NP-kT8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nation"
+          }
+        }
+      }
+    },
+    "dN4-4Z-fjh.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"dN4-4Z-fjh\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "ffS-FM-RPV.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"RED CARD\"; ObjectID = \"ffS-FM-RPV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "RED CARD"
+          }
+        }
+      }
+    },
+    "fRI-kG-HeG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Player\"; ObjectID = \"fRI-kG-HeG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Player"
+          }
+        }
+      }
+    },
+    "Gol-Hz-g8Z.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"12\"; ObjectID = \"Gol-Hz-g8Z\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "12"
+          }
+        }
+      }
+    },
+    "gSL-sY-tx6.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"gSL-sY-tx6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "HSa-Hs-Gld.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"GOALS\"; ObjectID = \"HSa-Hs-Gld\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "GOALS"
+          }
+        }
+      }
+    },
+    "iEk-sk-uft.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"APPEARANCE\"; ObjectID = \"iEk-sk-uft\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "APPEARANCE"
+          }
+        }
+      }
+    },
+    "IsT-SP-rQE.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Real Madrid\"; ObjectID = \"IsT-SP-rQE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Real Madrid"
+          }
+        }
+      }
+    },
+    "iTT-sH-0Ln.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"iTT-sH-0Ln\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "JIl-rn-IRJ.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"JIl-rn-IRJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "jRb-Kw-AKn.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"AGE\"; ObjectID = \"jRb-Kw-AKn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "AGE"
+          }
+        }
+      }
+    },
+    "JUT-O4-jh0.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"14\"; ObjectID = \"JUT-O4-jh0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "14"
+          }
+        }
+      }
+    },
+    "JZA-UY-dxd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"JZA-UY-dxd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "K4H-xL-wpY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"POSITION:\"; ObjectID = \"K4H-xL-wpY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "POSITION:"
+          }
+        }
+      }
+    },
+    "LUs-81-wLh.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"AGE:\"; ObjectID = \"LUs-81-wLh\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "AGE:"
+          }
+        }
+      }
+    },
+    "MbP-6b-zC8.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"12\"; ObjectID = \"MbP-6b-zC8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "12"
+          }
+        }
+      }
+    },
+    "mjl-uk-ceu.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"mjl-uk-ceu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "N3v-fs-MZi.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"N3v-fs-MZi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "N8L-oa-DVh.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"HEIGHT:\"; ObjectID = \"N8L-oa-DVh\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "HEIGHT:"
+          }
+        }
+      }
+    },
+    "Nf0-9R-rgE.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"Nf0-9R-rgE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "noL-S6-LVc.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"102\"; ObjectID = \"noL-S6-LVc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "102"
+          }
+        }
+      }
+    },
+    "nXA-ws-huc.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"12\"; ObjectID = \"nXA-ws-huc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "12"
+          }
+        }
+      }
+    },
+    "o97-XQ-KJa.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"o97-XQ-KJa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "OkE-8t-tnf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Age\"; ObjectID = \"OkE-8t-tnf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Age"
+          }
+        }
+      }
+    },
+    "Rna-n1-wlo.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"WEBSITE >>\"; ObjectID = \"Rna-n1-wlo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "WEBSITE >>"
+          }
+        }
+      }
+    },
+    "Rna-n1-wlo.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"Rna-n1-wlo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "TuY-HJ-QNM.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"TuY-HJ-QNM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "Udb-of-VqK.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"ASSIST\"; ObjectID = \"Udb-of-VqK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ASSIST"
+          }
+        }
+      }
+    },
+    "Vwo-KD-nTY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"12\"; ObjectID = \"Vwo-KD-nTY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "12"
+          }
+        }
+      }
+    },
+    "wd5-gp-bbv.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Argentina\"; ObjectID = \"wd5-gp-bbv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Argentina"
+          }
+        }
+      }
+    },
+    "wF9-eP-dTe.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"12\"; ObjectID = \"wF9-eP-dTe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "12"
+          }
+        }
+      }
+    },
+    "x7l-cd-pO9.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"x7l-cd-pO9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "XJk-uP-liv.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"XJk-uP-liv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "XRr-ra-Shd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Number\"; ObjectID = \"XRr-ra-Shd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Number"
+          }
+        }
+      }
+    },
+    "yL0-JI-oXg.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"yL0-JI-oXg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "YRO-1c-mPS.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"YRO-1c-mPS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "Z6D-4m-3mi.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"GOALS\"; ObjectID = \"Z6D-4m-3mi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "GOALS"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
